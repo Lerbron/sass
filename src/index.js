@@ -1,0 +1,1 @@
+/** * Created by admin on 2017/6/22. */import React, { Component } from 'react';import ReactDOM from 'react-dom';import Hello from 'components/hello';import './assets/style.scss';ReactDOM.render(<Hello/>, document.getElementById('app'));
